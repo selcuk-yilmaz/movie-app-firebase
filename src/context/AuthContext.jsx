@@ -15,7 +15,7 @@ userObserver(setCurrentUser)
 
   return (
     <AuthContext.Provider value={{ currentUser }}>
-      {children}
+    {children}
     </AuthContext.Provider>
   );
 };
