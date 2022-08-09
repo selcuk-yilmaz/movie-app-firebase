@@ -2,7 +2,7 @@
 
 [click here for see the cite](https://movie-app-firebaseauthentication.netlify.app/)
 
-## Hi I’m Selçuk 👋. Welcome to my  Weather Condition App 
+## Hi I’m Selçuk 👋. Welcome to my  Movie App 
 
  The purpose of this project is to make getAuth, createUserWithEmailAndPassword via using https://firebase.google.com/docs/auth/web/start.And use  get API key,axios etc...
 
