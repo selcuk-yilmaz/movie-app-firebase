@@ -16,5 +16,6 @@
 
 ## How does my project look
 
-![firecontact_realtime](https://user-images.githubusercontent.com/99830247/183397278-50be90fe-bd99-4aae-8075-c86552b5d882.gif)
 
+
+![movie-app-firebase](https://user-images.githubusercontent.com/99830247/187339532-0cdc2d62-acc0-4c93-acef-6829c7e14934.gif)
