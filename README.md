@@ -1,6 +1,6 @@
 ## Live Link of the Project
 
-[click here for see the cite](https://movie-app-firebaseauthentication.netlify.app/)
+[click here for see the cite](https://movie-app-firebaseconfig.netlify.app/)
 
 ## Hi I’m Selçuk 👋. Welcome to my  Movie App 
 
